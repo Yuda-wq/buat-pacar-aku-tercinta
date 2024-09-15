@@ -1,0 +1,45 @@
+*,
+html {
+    margin: 0;
+    padding: 0;
+}
+
+.countainer {}
+
+.navbar {
+    background-color: pink;
+    width: 100%;
+    height: 100px;
+}
+
+.ul-navbar {
+display: flex;
+height: 100px;
+justify-content: center;
+align-items: center;
+}
+
+.li-navbar {
+font-size: 70px;
+list-style: none;
+padding: 20px;
+}
+
+.foto-1 {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.foto-2 {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.TEKS {
+    background-color: pink;
+}
+
